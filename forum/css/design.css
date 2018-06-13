@@ -1,0 +1,96 @@
+#banniere
+{
+width: 600px;
+height: 150px;
+background-position:  center;
+margin-bottom: 20px; 
+background-image: url('images/banniere.jpg');
+}
+
+#corps_forum
+{
+border: 1px solid white;
+width: 90%;
+margin-top: 50px;
+margin-left: 5%;
+margin-bottom: 100px;
+padding: 5px;
+background-color: rgba(242, 242, 242, 0.80);
+}
+
+#footer
+{
+border: 1px ;
+width: 90%;
+margin-top: 50px;
+margin-left: 5%;
+margin-bottom: 100px;
+padding: 5px;
+background-color: rgba(242, 242, 242, 0.80);
+}
+
+.ico {width:2%}
+.titre { width:61%; }
+.nombremessages { width:2%; }
+.nombrevu { width:4%; }
+.nombresujets { width:2%; }
+.auteur { width:7%; }
+.derniermessage { width:18%; }
+.categorie { width:92%; background-color : yellow; }
+
+td { 
+	border: 1px ; 
+	background-color: rgb(40, 50, 50); 
+	vertical-align:top; 
+	color: white;
+}
+
+table { 
+	background-color: rgba(237,224,213,0); 
+	border: 1px; 
+	color: white;
+}
+
+th { 
+	background-color: #3c4646; 
+	border: 1px ; 
+	padding: 10px 0 0 10px;
+	color: white;
+}
+
+
+label {
+display:block;
+width:150px;
+float:left;
+}
+
+.vt_auteur
+{
+width:20%;
+background-color : rgb(244,238,250);
+}
+.vt_mess
+{
+width:75%;
+background-color : rgb(244,238,250);
+}
+
+#quote
+{
+width: 100%;
+background-color : rgb(220,220,220);
+margin-top: 2px;
+margin-bottom: 2px;
+font-family: "Comic sans MS", Arial, Verdana, serif;
+}
+
+.mp_titre { width:65%; }
+.mp_expediteur { width:10%; }
+.mp_time { width:20%; }
+
+.element_menu {
+
+	text-align: left;
+	margin-left: 5%;
+}
